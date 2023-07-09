@@ -12,9 +12,14 @@ The YOLOv5s model is a deep convolutional neural network architecture designed f
 
 
 My-dataset/
+
+
   ├── images/
   │   ├── train
   │   ├── val
+
+
+  
   │   
   └── labels/
       ├── train
